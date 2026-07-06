@@ -1,1 +1,0 @@
-# student-mgt-project1
